@@ -17,5 +17,5 @@ function exampleFunction(value: myType) : void{
         
     }
 }
-exampleFunction("hello") //output: hello
+exampleFunction("hello") //output: HELLO
 exampleFunction(44) //output: 44.00
